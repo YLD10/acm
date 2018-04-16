@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507201409 source:e:\c_plusplus\acm\infection_control\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

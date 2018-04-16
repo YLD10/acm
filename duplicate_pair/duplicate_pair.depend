@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523716713 source:e:\c_plusplus\acm\duplicate_pair\main.cpp
+	<iostream>
+	<limits>
+	<algorithm>
+	<set>
+

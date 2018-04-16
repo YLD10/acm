@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523806783 source:e:\c_plusplus\acm\drop_duplicate\main.cpp
+	<iostream>
+	<limits>
+	<vector>
+	<algorithm>
+

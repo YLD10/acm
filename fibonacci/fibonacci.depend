@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523677679 source:e:\c_plusplus\acm\fibonacci\main.cpp
+	<iostream>
+	<limits>
+

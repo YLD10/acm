@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523672886 source:e:\c_plusplus\acm\a_plus_b\main.cpp
+	<iostream>
+	<limits>
+	<cstdio>
+
