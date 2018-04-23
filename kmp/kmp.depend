@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524499237 source:e:\c_plusplus\acm\kmp\main.cpp
+	<iostream>
+	<string.h>
+
